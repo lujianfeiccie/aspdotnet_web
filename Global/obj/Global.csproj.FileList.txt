@@ -1,0 +1,5 @@
+bin\Debug\Global.dll
+bin\Debug\Global.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Global.dll
+obj\Debug\Global.pdb

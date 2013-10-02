@@ -1,0 +1,36 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+}
+table {
+	background-color: #F7FAFB;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: dashed;
+	border-right-style: dashed;
+	border-bottom-style: dashed;
+	border-left-style: dashed;
+	border-top-color: #F7FAFB;
+	border-right-color: #F7FAFB;
+	border-bottom-color: #F7FAFB;
+	border-left-color: #F7FAFB;
+	word-wrap: break-word; table-layout:fixed;
+}
+.tb {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	border: 1px dashed #B8C2CD;
+	background-color: #B8C2CD;
+}

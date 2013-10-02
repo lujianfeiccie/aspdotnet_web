@@ -1,0 +1,50 @@
+H:\lujianfei\cdc-2010-8-23\Global\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-8-23\Global\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-8-23\Global\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-8-23\Global\obj\Debug\Global.dll
+H:\lujianfei\cdc-2010-8-23\Global\obj\Debug\Global.pdb
+H:\lujianfei\cdc-2010-9-16\Global\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-9-16\Global\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-9-16\Global\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-16\Global\obj\Debug\Global.dll
+H:\lujianfei\cdc-2010-9-16\Global\obj\Debug\Global.pdb
+H:\lujianfei\cdc-2010-9-18\Global\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-9-18\Global\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-9-18\Global\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-18\Global\obj\Debug\Global.dll
+H:\lujianfei\cdc-2010-9-18\Global\obj\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-3\Global\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-3\Global\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-3\Global\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-3\Global\obj\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-3\Global\obj\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-8\Global\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-8\Global\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-8\Global\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-8\Global\obj\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-8\Global\obj\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-9\Global\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-9\Global\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-9\Global\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-9\Global\obj\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-9\Global\obj\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-11\Global\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-11\Global\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-11\Global\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-11\Global\obj\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-11\Global\obj\Debug\Global.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Global\bin\Debug\Global.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Global\bin\Debug\Global.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Global\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Global\obj\Debug\Global.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Global\obj\Debug\Global.pdb
+E:\大学城项目\疾控中心项目\cdc\Global\bin\Debug\Global.dll
+E:\大学城项目\疾控中心项目\cdc\Global\bin\Debug\Global.pdb
+E:\大学城项目\疾控中心项目\cdc\Global\obj\Debug\ResolveAssemblyReference.cache
+E:\大学城项目\疾控中心项目\cdc\Global\obj\Debug\Global.dll
+E:\大学城项目\疾控中心项目\cdc\Global\obj\Debug\Global.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Global\bin\Debug\Global.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Global\bin\Debug\Global.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Global\obj\Debug\ResolveAssemblyReference.cache
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Global\obj\Debug\Global.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Global\obj\Debug\Global.pdb

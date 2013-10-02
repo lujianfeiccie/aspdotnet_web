@@ -1,0 +1,99 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3BF9985D-36D9-4F17-AECA-D7550352AC3A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLL</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LTP.Common, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\LTP.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TB_AntibodyDetection.cs" />
+    <Compile Include="TB_Citizenship.cs" />
+    <Compile Include="tb_comments.cs" />
+    <Compile Include="TB_ContactHistory.cs" />
+    <Compile Include="TB_CurrentSituation.cs" />
+    <Compile Include="TB_DetectBefore.cs" />
+    <Compile Include="TB_DetectionClass.cs" />
+    <Compile Include="TB_DetectionStatement.cs" />
+    <Compile Include="TB_District.cs" />
+    <Compile Include="TB_Education.cs" />
+    <Compile Include="TB_Epidemiology.cs" />
+    <Compile Include="TB_FirstFollowUpVisit.cs" />
+    <Compile Include="TB_Flag.cs" />
+    <Compile Include="TB_FollowUpIntervention.cs" />
+    <Compile Include="TB_HouseholdRegister.cs" />
+    <Compile Include="TB_InfectionWay.cs" />
+    <Compile Include="TB_IsDead.cs" />
+    <Compile Include="TB_JobCharacter.cs" />
+    <Compile Include="tb_log.cs" />
+    <Compile Include="tb_lxbx.cs" />
+    <Compile Include="TB_MaintainStatus.cs" />
+    <Compile Include="TB_MarriageStatus.cs" />
+    <Compile Include="TB_Nationality.cs" />
+    <Compile Include="tb_role.cs" />
+    <Compile Include="TB_SampleSize.cs" />
+    <Compile Include="TB_SampleType.cs" />
+    <Compile Include="TB_SEX.cs" />
+    <Compile Include="tb_sfjc.cs" />
+    <Compile Include="TB_ShowToUser.cs" />
+    <Compile Include="TB_TypeOfTreatment.cs" />
+    <Compile Include="tb_user.cs" />
+    <Compile Include="tb_yxyb.cs" />
+    <Compile Include="temp_tb_lxbx.cs" />
+    <Compile Include="temp_tb_sfjc.cs" />
+    <Compile Include="temp_tb_yxyb.cs" />
+    <Compile Include="TB_Province.cs" />
+    <Compile Include="Draft_lxbx.cs" />
+    <Compile Include="Draft_sfjc.cs" />
+    <Compile Include="Draft_yxyb.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{548E56DF-FEFB-4E29-BDFB-D611566EF591}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{FA09D69A-FC72-4037-AC7E-704C927D2C38}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

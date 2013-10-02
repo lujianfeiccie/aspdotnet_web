@@ -1,0 +1,62 @@
+H:\lujianfei\cdc-2010-8-23\DBUtility\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-8-23\DBUtility\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-8-23\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-8-23\DBUtility\obj\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-8-23\DBUtility\obj\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-16\DBUtility\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-9-16\DBUtility\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-16\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-16\DBUtility\obj\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-9-16\DBUtility\obj\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-16\DBUtility\obj\Debug\DBUtility.Resource1.resources
+H:\lujianfei\cdc-2010-9-16\DBUtility\obj\Debug\DBUtility.csproj.GenerateResource.Cache
+H:\lujianfei\cdc-2010-9-18\DBUtility\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-9-18\DBUtility\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-18\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-18\DBUtility\obj\Debug\DBUtility.Resource1.resources
+H:\lujianfei\cdc-2010-9-18\DBUtility\obj\Debug\DBUtility.csproj.GenerateResource.Cache
+H:\lujianfei\cdc-2010-9-18\DBUtility\obj\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-9-18\DBUtility\obj\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-3\DBUtility\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-3\DBUtility\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-3\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-3\DBUtility\obj\Debug\DBUtility.Resource1.resources
+H:\lujianfei\cdc-2010-10-3\DBUtility\obj\Debug\DBUtility.csproj.GenerateResource.Cache
+H:\lujianfei\cdc-2010-10-3\DBUtility\obj\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-3\DBUtility\obj\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-8\DBUtility\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-8\DBUtility\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-8\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-8\DBUtility\obj\Debug\DBUtility.Resource1.resources
+H:\lujianfei\cdc-2010-10-8\DBUtility\obj\Debug\DBUtility.csproj.GenerateResource.Cache
+H:\lujianfei\cdc-2010-10-8\DBUtility\obj\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-8\DBUtility\obj\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-9\DBUtility\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-9\DBUtility\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-9\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-9\DBUtility\obj\Debug\DBUtility.Resource1.resources
+H:\lujianfei\cdc-2010-10-9\DBUtility\obj\Debug\DBUtility.csproj.GenerateResource.Cache
+H:\lujianfei\cdc-2010-10-9\DBUtility\obj\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-9\DBUtility\obj\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-11\DBUtility\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-11\DBUtility\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-11\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-11\DBUtility\obj\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-11\DBUtility\obj\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DBUtility\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DBUtility\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DBUtility\obj\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DBUtility\obj\Debug\DBUtility.pdb
+E:\大学城项目\疾控中心项目\cdc\DBUtility\bin\Debug\DBUtility.dll
+E:\大学城项目\疾控中心项目\cdc\DBUtility\bin\Debug\DBUtility.pdb
+E:\大学城项目\疾控中心项目\cdc\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\大学城项目\疾控中心项目\cdc\DBUtility\obj\Debug\DBUtility.dll
+E:\大学城项目\疾控中心项目\cdc\DBUtility\obj\Debug\DBUtility.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DBUtility\bin\Debug\DBUtility.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DBUtility\bin\Debug\DBUtility.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DBUtility\bin\Debug\office.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DBUtility\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DBUtility\obj\Debug\DBUtility.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DBUtility\obj\Debug\DBUtility.pdb

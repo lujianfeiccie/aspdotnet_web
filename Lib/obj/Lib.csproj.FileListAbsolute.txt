@@ -1,0 +1,10 @@
+H:\lujianfei\cdc-2010-9-18\Lib\bin\Debug\Lib.dll
+H:\lujianfei\cdc-2010-9-18\Lib\bin\Debug\Lib.pdb
+H:\lujianfei\cdc-2010-9-18\Lib\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-18\Lib\obj\Debug\Lib.dll
+H:\lujianfei\cdc-2010-9-18\Lib\obj\Debug\Lib.pdb
+E:\大学城项目\疾控中心项目\cdc\Lib\bin\Debug\Lib.dll
+E:\大学城项目\疾控中心项目\cdc\Lib\bin\Debug\Lib.pdb
+E:\大学城项目\疾控中心项目\cdc\Lib\obj\Debug\ResolveAssemblyReference.cache
+E:\大学城项目\疾控中心项目\cdc\Lib\obj\Debug\Lib.dll
+E:\大学城项目\疾控中心项目\cdc\Lib\obj\Debug\Lib.pdb

@@ -1,0 +1,70 @@
+H:\lujianfei\cdc-2010-8-23\Model\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-8-23\Model\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-8-23\Model\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-8-23\Model\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-8-23\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-8-23\Model\obj\Debug\Model.dll
+H:\lujianfei\cdc-2010-8-23\Model\obj\Debug\Model.pdb
+H:\lujianfei\cdc-2010-9-16\Model\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-9-16\Model\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-9-16\Model\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-9-16\Model\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-9-16\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-16\Model\obj\Debug\Model.dll
+H:\lujianfei\cdc-2010-9-16\Model\obj\Debug\Model.pdb
+H:\lujianfei\cdc-2010-9-18\Model\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-9-18\Model\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-9-18\Model\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-9-18\Model\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-9-18\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-18\Model\obj\Debug\Model.dll
+H:\lujianfei\cdc-2010-9-18\Model\obj\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-3\Model\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-3\Model\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-3\Model\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-3\Model\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-3\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-3\Model\obj\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-3\Model\obj\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-8\Model\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-8\Model\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-8\Model\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-8\Model\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-8\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-8\Model\obj\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-8\Model\obj\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-9\Model\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-9\Model\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-9\Model\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-9\Model\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-9\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-9\Model\obj\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-9\Model\obj\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-11\Model\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-11\Model\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-11\Model\bin\Debug\Global.dll
+H:\lujianfei\cdc-2010-10-11\Model\bin\Debug\Global.pdb
+H:\lujianfei\cdc-2010-10-11\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-11\Model\obj\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-11\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Model\bin\Debug\Global.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Model\bin\Debug\Global.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\Model\obj\Debug\Model.pdb
+E:\大学城项目\疾控中心项目\cdc\Model\bin\Debug\Model.dll
+E:\大学城项目\疾控中心项目\cdc\Model\bin\Debug\Model.pdb
+E:\大学城项目\疾控中心项目\cdc\Model\bin\Debug\Global.dll
+E:\大学城项目\疾控中心项目\cdc\Model\bin\Debug\Global.pdb
+E:\大学城项目\疾控中心项目\cdc\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\大学城项目\疾控中心项目\cdc\Model\obj\Debug\Model.dll
+E:\大学城项目\疾控中心项目\cdc\Model\obj\Debug\Model.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Model\bin\Debug\Model.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Model\bin\Debug\Model.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Model\bin\Debug\Global.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Model\bin\Debug\Global.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Model\obj\Debug\Model.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\Model\obj\Debug\Model.pdb

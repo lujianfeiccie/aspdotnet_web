@@ -1,0 +1,10 @@
+bin\Debug\DAL.dll
+bin\Debug\DAL.pdb
+bin\Debug\DBUtility.dll
+bin\Debug\Model.dll
+bin\Debug\Excel.dll
+bin\Debug\Model.pdb
+bin\Debug\DBUtility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DAL.dll
+obj\Debug\DAL.pdb

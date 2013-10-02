@@ -1,0 +1,102 @@
+H:\lujianfei\cdc-2010-8-23\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-8-23\DAL\obj\Debug\DAL.dll
+H:\lujianfei\cdc-2010-8-23\DAL\obj\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-8-23\DAL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-8-23\DAL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-8-23\DAL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-8-23\DAL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-8-23\DAL\bin\Debug\Excel.dll
+H:\lujianfei\cdc-2010-8-23\DAL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-8-23\DAL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-16\DAL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-9-16\DAL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-9-16\DAL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-9-16\DAL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-9-16\DAL\bin\Debug\Excel.dll
+H:\lujianfei\cdc-2010-9-16\DAL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-9-16\DAL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-16\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-16\DAL\obj\Debug\DAL.dll
+H:\lujianfei\cdc-2010-9-16\DAL\obj\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-9-18\DAL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-9-18\DAL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-9-18\DAL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-9-18\DAL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-9-18\DAL\bin\Debug\Excel.dll
+H:\lujianfei\cdc-2010-9-18\DAL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-9-18\DAL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-18\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-18\DAL\obj\Debug\DAL.dll
+H:\lujianfei\cdc-2010-9-18\DAL\obj\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-3\DAL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-3\DAL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-3\DAL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-3\DAL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-3\DAL\bin\Debug\Excel.dll
+H:\lujianfei\cdc-2010-10-3\DAL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-3\DAL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-3\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-3\DAL\obj\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-3\DAL\obj\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-8\DAL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-8\DAL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-8\DAL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-8\DAL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-8\DAL\bin\Debug\Excel.dll
+H:\lujianfei\cdc-2010-10-8\DAL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-8\DAL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-8\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-8\DAL\obj\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-8\DAL\obj\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-9\DAL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-9\DAL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-9\DAL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-9\DAL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-9\DAL\bin\Debug\Excel.dll
+H:\lujianfei\cdc-2010-10-9\DAL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-9\DAL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-9\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-9\DAL\obj\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-9\DAL\obj\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-11\DAL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-11\DAL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-11\DAL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-11\DAL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-11\DAL\bin\Debug\Excel.dll
+H:\lujianfei\cdc-2010-10-11\DAL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-11\DAL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-11\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-11\DAL\obj\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-11\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\bin\Debug\Excel.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\DAL\obj\Debug\DAL.pdb
+E:\大学城项目\疾控中心项目\cdc\DAL\bin\Debug\DAL.dll
+E:\大学城项目\疾控中心项目\cdc\DAL\bin\Debug\DAL.pdb
+E:\大学城项目\疾控中心项目\cdc\DAL\bin\Debug\DBUtility.dll
+E:\大学城项目\疾控中心项目\cdc\DAL\bin\Debug\Model.dll
+E:\大学城项目\疾控中心项目\cdc\DAL\bin\Debug\Excel.dll
+E:\大学城项目\疾控中心项目\cdc\DAL\bin\Debug\Model.pdb
+E:\大学城项目\疾控中心项目\cdc\DAL\bin\Debug\DBUtility.pdb
+E:\大学城项目\疾控中心项目\cdc\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\大学城项目\疾控中心项目\cdc\DAL\obj\Debug\DAL.dll
+E:\大学城项目\疾控中心项目\cdc\DAL\obj\Debug\DAL.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\DAL.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\DAL.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\DBUtility.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\Model.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\office.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\Excel.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\Model.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\bin\Debug\DBUtility.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\obj\Debug\DAL.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\DAL\obj\Debug\DAL.pdb

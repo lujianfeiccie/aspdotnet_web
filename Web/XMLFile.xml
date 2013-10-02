@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+
+  <MaxLengthOfDirectReportNumber1>4</MaxLengthOfDirectReportNumber1>
+  <MaxLengthOfDirectReportNumber2>5</MaxLengthOfDirectReportNumber2>
+  <MaxLengthOfDirectReportNumber3>4</MaxLengthOfDirectReportNumber3>
+  <MaxLengthOfDirectReportNumber4>5</MaxLengthOfDirectReportNumber4>
+  
+  
+  <MaxLengthOfConfirmationNumber1>4</MaxLengthOfConfirmationNumber1>
+  <MaxLengthOfConfirmationNumber2>4</MaxLengthOfConfirmationNumber2>
+  
+  
+  
+  <ToolTipOfDirectReportNumber1>城市(4位)</ToolTipOfDirectReportNumber1>
+  <ToolTipOfDirectReportNumber2>区号(5位)</ToolTipOfDirectReportNumber2>
+  <ToolTipOfDirectReportNumber3>年份(4位)</ToolTipOfDirectReportNumber3>
+  <ToolTipOfDirectReportNumber4>个人编码(5)</ToolTipOfDirectReportNumber4>
+
+  <ToolTipOfConfirmationNumber1>年份(4位,如2010)</ToolTipOfConfirmationNumber1>
+  <ToolTipOfConfirmationNumber2>序号(4位，如0001)</ToolTipOfConfirmationNumber2>
+ 
+  
+  
+
+</NewDataSet>

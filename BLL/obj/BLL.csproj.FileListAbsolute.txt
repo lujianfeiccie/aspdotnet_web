@@ -1,0 +1,122 @@
+H:\lujianfei\cdc-2010-8-23\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-8-23\BLL\obj\Debug\BLL.dll
+H:\lujianfei\cdc-2010-8-23\BLL\obj\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\BLL.dll
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\LTP.Common.dll
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-8-23\BLL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\BLL.dll
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\LTP.Common.dll
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-16\BLL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-9-16\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-16\BLL\obj\Debug\BLL.dll
+H:\lujianfei\cdc-2010-9-16\BLL\obj\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\BLL.dll
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\LTP.Common.dll
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-9-18\BLL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-9-18\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-9-18\BLL\obj\Debug\BLL.dll
+H:\lujianfei\cdc-2010-9-18\BLL\obj\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\BLL.dll
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\LTP.Common.dll
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-3\BLL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-3\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-3\BLL\obj\Debug\BLL.dll
+H:\lujianfei\cdc-2010-10-3\BLL\obj\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\BLL.dll
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\LTP.Common.dll
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-8\BLL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-8\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-8\BLL\obj\Debug\BLL.dll
+H:\lujianfei\cdc-2010-10-8\BLL\obj\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\BLL.dll
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\LTP.Common.dll
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-9\BLL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-9\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-9\BLL\obj\Debug\BLL.dll
+H:\lujianfei\cdc-2010-10-9\BLL\obj\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-10-11\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\lujianfei\cdc-2010-10-11\BLL\obj\Debug\BLL.dll
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\BLL.dll
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\BLL.pdb
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\DAL.dll
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\LTP.Common.dll
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\Model.dll
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\DBUtility.dll
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\Model.pdb
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\DBUtility.pdb
+H:\lujianfei\cdc-2010-10-11\BLL\bin\Debug\DAL.pdb
+H:\lujianfei\cdc-2010-10-11\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\LTP.Common.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator.LU-145ABB3FF576\桌面\疾控中心项目\cdc\BLL\obj\Debug\BLL.pdb
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\BLL.dll
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\BLL.pdb
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\DAL.dll
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\LTP.Common.dll
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\Model.dll
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\DBUtility.dll
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\Model.pdb
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\DBUtility.pdb
+E:\大学城项目\疾控中心项目\cdc\BLL\bin\Debug\DAL.pdb
+E:\大学城项目\疾控中心项目\cdc\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\大学城项目\疾控中心项目\cdc\BLL\obj\Debug\BLL.dll
+E:\大学城项目\疾控中心项目\cdc\BLL\obj\Debug\BLL.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\BLL.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\BLL.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\DAL.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\LTP.Common.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\Model.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\DBUtility.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\office.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\Model.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\DBUtility.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\bin\Debug\DAL.pdb
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\obj\Debug\BLL.dll
+F:\work\dr_yang\疾控中心项目20120107\疾控中心项目\cdc\BLL\obj\Debug\BLL.pdb
